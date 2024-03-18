@@ -15,7 +15,3 @@ This repository contains the reading material and challenges for those who atten
 ## Courseware
 
 To recap any of the topics covered in the live session, navigate into the courseware folder or use the contents table and find the folder for the topic you wish to go over.
-
-## Exercises (Coming soon) 
-
-To practice what you have learnt from the live session, navigate into the exercises folder and work through any of the exercises listed in it.
